@@ -1,0 +1,24 @@
+header{
+    background-color: aliceblue;
+    border-radius: 50px;
+    position: relative;
+    height: 200px;
+
+}
+ 
+header img{
+    position: absolute;
+    width: 200px;
+    left: 20px;
+    border-radius: 100px;
+} 
+header h1{
+    font-size: 40px;
+    position: absolute;
+    left: 400px;
+    top: 50px;
+
+}   
+main{
+    background-color: aliceblue;
+}
