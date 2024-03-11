@@ -21,4 +21,15 @@ header h1{
 }   
 main{
     background-color: aliceblue;
+    padding: 30px;
+    top:15%
 }
+   
+main{
+    background-color: aliceblue;
+    padding: 30px;
+    margin: 10px
+
+
+body{
+    font-family: system-ui,apple-sytem,BlinkMacSystemfont, 'Open Sans',Helvetica Neve',sans-serif;
